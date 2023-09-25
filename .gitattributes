@@ -1,4 +1,4 @@
-Drivers/ linguist-vendored
+Drivers/** linguist-vendored
 
 Core/Startup linguist-vendored
 Core/Src/stm32l1xx_hal_msp.c linguist-vendored
